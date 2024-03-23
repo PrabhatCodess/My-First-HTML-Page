@@ -1,0 +1,67 @@
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+h4{
+    color:white ;
+
+}
+
+h5 {
+    color: white;
+}
+
+* h1{
+    color: white;
+  
+}
+
+p {
+    color: White;
+    
+}
+
+
+p {
+    
+}
+
+footer {
+    color: white;
+    text-transform: capitalize;
+}
+
+#aboutme {
+    
+}
+
+header {
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+body {
+    background-color:#514663 ;
+
+    background-image: url(black.jpg);
+    background-size: cover; }
+
+
+
+
+
+
+--moonstone: #5c9eadff;
+--white: #ffffffff;
+--paynes-gray: #326273ff;
+--antiflash-white: #eeeeeeff;
+--atomic-tangerine: #e39774ff;
